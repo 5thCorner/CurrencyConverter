@@ -1,0 +1,15 @@
+type: code
+files:
+- name: main.py
+  visible: true
+  text: '# write your code here'
+  learner_created: false
+- name: users.json
+  visible: true
+  learner_created: true
+feedback_link: https://hyperskill.org/learn/step/9004#comment
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: Tue, 23 Feb 2021 21:15:13 UTC
+record: -1
